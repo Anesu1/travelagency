@@ -294,7 +294,7 @@ html,body{
 	position: relative;
 	background: url('../../assets/images/home/slide.jpg')no-repeat;
 	background-size: cover;
-	background-position: center;
+	background-position: center center;
     background-attachment: fixed;
 	min-height: 720px;
 }
